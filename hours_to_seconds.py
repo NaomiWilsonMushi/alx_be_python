@@ -1,8 +1,8 @@
-hour = 2
+
+hours = 2
 seconds = 60 
 numbers_second = 60
 
-seconds = hour * 3600 
-
-print(hour, "hour(s) is", seconds, "seconds")
+seconds = hours * 3600 
+print(hours, "hour(s) is", seconds, "seconds")
 
